@@ -1,6 +1,5 @@
 # Usa la imagen oficial de Python 3.7
-FROM python:3.12.2-alpine3.19
-
+FROM python:3.12
 WORKDIR /app
 COPY requirements.txt .
 
