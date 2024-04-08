@@ -5,7 +5,7 @@ Información del dolar siempre
 
 Uso: 
 
-- Descargar ejecutable: [binario exe](https://github.com/kity-linuxero/lalo-dollar/blob/main/bin/lalo-dollar.exe)
+- Descargar ejecutable: [binario exe](https://github.com/kity-linuxero/lalo-dollar/releases/download/v1.0/lalo-dollar.exe)
 
 Por defecto informará cada 30 minutos el valor de venta del dolar blue.
 
