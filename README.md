@@ -5,7 +5,14 @@ Información del dolar siempre
 
 Uso: 
 
-- Descargar ejecutable: 
+- Descargar ejecutable: [binario exe](https://github.com/kity-linuxero/lalo-dollar/blob/main/bin/lalo-dollar.exe)
+
+Por defecto informará cada 30 minutos el valor de venta del dolar blue.
+
+#### Parámetros
+- `-i` El intérvalo en minutos que informa. Por defecto 30 minutos.
+- `-d` El tipo de dolar. Puede ser mep (bolsa) o blue. Por defecto se informará el blue.
+- `-h` Imprime la siguiente ayuda
 
 ```bash
 
